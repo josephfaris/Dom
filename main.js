@@ -4,7 +4,7 @@ let title =document.querySelector (".tilte")
 
 
 src[0].onclick = function() {
-    img.src = "./Joseph.png";
+    img.src = "Joseph.png";
     console.log("ff");
 }
 src[1].onclick =function () {
